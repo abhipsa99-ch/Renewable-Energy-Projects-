@@ -12,11 +12,6 @@ This repository showcases my academic and engineering projects in renewable ener
 - Decarbonization strategies
 - Sustainable energy systems
 
-### Biogas Production
-- Anaerobic digestion
-- Biogas generation
-- Bioenergy applications
-- Factors affecting biogas yield
 
 ### Methane Adsorption
 - Methane adsorption mechanisms
@@ -29,15 +24,13 @@ This repository showcases my academic and engineering projects in renewable ener
 - Wildlife conservation considerations
 - Sustainable wind energy development
 
-### Wind Turbine Construction
+### HGAST 
 
-Designed, assembled, and tested a small-scale horizontal-axis wind turbine at the National Technical University of Athens (NTUA). Evaluated aerodynamic performance by measuring the **Cp–λ (power coefficient–tip speed ratio)** curve in a wind tunnel and analyzed turbine efficiency under different operating conditions. This project strengthened my understanding of wind turbine aerodynamics, performance testing, and renewable energy systems.
 
 ## Skills Demonstrated
 
 - Renewable Energy Engineering
 - Wind Energy
-- Bioenergy
 - Environmental Impact Assessment
 - Energy Systems Analysis
 - Research and Technical Writing
