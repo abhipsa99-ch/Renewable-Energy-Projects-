@@ -14,18 +14,20 @@ This repository showcases my academic and engineering projects in renewable ener
 
 
 ### Methane Adsorption
-- Methane adsorption mechanisms
-- Gas storage and separation
-- Renewable energy applications
+- Methane adsorption mechanisms.
+- Gas storage and separation.
+- Renewable energy applications.
 
-### Wind Turbine Noise Effects on Avians
-- Assessment of wind turbine noise on bird populations
-- Environmental impact of wind farms
-- Wildlife conservation considerations
-- Sustainable wind energy development
-
+### ENVIRONMENTAL ISSUES OF WIND TURBINES: EFFECT ON MICORCLIMATE AND BIRDS 
+- Assessment of wind turbine noise on bird populations.
+- Environmental impact of wind farms.
+- Understanding of displacement studies, mitigation strategies, monitoring and assessment.
+- Understanding computational data and high resolution simulations.
+  
 ### HGAST 
-
+- Understanding normal operations with turbulent wind (rotational speed with control & without control, pitch with control & without control).
+- Understanding different operational parameters (wind speed, rotational speed and pitch angle).
+- Understanding different loads (blade flapwise moment, blade flapwise deflection, tower foreaft moment and tower foreaft deflection).
 
 ## Skills Demonstrated
 
